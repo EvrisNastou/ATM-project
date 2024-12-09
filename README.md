@@ -2,4 +2,4 @@
 
 ## ⚠️Disclaimer:
 
-## The [copyright &copy;](COPYING.LESSER.rtf) belogs to Evripidis Nastou and the any copy wihtout them violates the copyright ownership❗❗❗❗
+## The [copyright &copy;](LICENSE.txt) belogs to Evripidis Nastou and the any copy wihtout them violates the copyright ownership❗❗❗❗
