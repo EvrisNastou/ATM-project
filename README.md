@@ -2,4 +2,4 @@
 
 ## ⚠️Disclaimer:
 
-## The [copyright &copy;](LICENSE) belogs to me and the any copy wihtout them violate the copyright ownership❗❗❗❗
+## The [copyright &copy;](COPYING.LESSER.rtf) belogs to me and the any copy wihtout them violate the copyright ownership❗❗❗❗
