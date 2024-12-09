@@ -2,4 +2,4 @@
 
 ## ⚠️Disclaimer:
 
-## The copyright belogs to me and the any copy wihtout them violate the copyright ownership❗❗❗❗
+## The copyright &copy belogs to me and the any copy wihtout them violate the copyright ownership❗❗❗❗
